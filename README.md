@@ -14,7 +14,7 @@ The `smtp-gmail-sender` script streamlines the process of sending customized mar
 - **Automated Email Sending**: Sends the generated email content via Gmail using the SMTP server.
 - **One-Click Execution**: The entire process is initiated and completed by running a single `run.bat` file.
 
-![Demo](https://github.com/starglow-it/smtp-gmail-sender/smtp-gmail-sender-guide.gif)
+![Demo](https://github.com/starglow-it/smtp-gmail-sender/blob/main/smtp-gmail-sender-guide.gif)
 
 ## Prerequisites
 
